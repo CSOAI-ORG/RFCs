@@ -105,6 +105,8 @@ Two illustrative cases; in both, the expected record is absent.
 | A. Ordinary missing record: no verifiable delivery requirement, or no established collection path | insufficient_evidence | insufficient_evidence |
 | B. Authenticated producer, a verifiable delivery requirement whose window has closed, and a functioning collection path | fail | insufficient_evidence, unless separate evidence establishes the outcome |
 
+An evidence-delivery fail is recorded against the specific obligation and the responsible layer identified by the applicable contract. It is recorded against Monitoring when Monitoring's own collection or detection obligation failed; detecting that another layer's evidence is missing does not by itself make Monitoring the failed layer. Where responsibility cannot be established, the evidence-delivery finding preserves that uncertainty: it identifies the requirement, the expected producer and the observation window, and the underlying control's outcome is evaluated separately, as in case B.
+
 Record the review result separately from the operational disposition. Where an operation requires affirmative evidence of a control or authorization, an insufficient_evidence result does not satisfy that prerequisite, and the applicable enforcement policy decides hold, denial or escalation.
 
 Where evidence uses a domain-specific state for the same condition, map it to insufficient_evidence while retaining the evaluated layer or property, the original state, its reason and the applicable contract, so the finding stays traceable to the public report.
