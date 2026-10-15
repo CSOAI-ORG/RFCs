@@ -1,6 +1,6 @@
 # SAFE Working Group — Members
 
-To join, open a PR adding yourself to the Contributors table below, or introduce yourself in `#wg-safe` on [OSAIA Slack](https://slack.osaia.org).
+To join, open a PR adding yourself to the Contributors table below, or introduce yourself in `#wg-safe` on [OSAIA Slack](https://join.slack.com/t/opensecureaialliance/shared_invite/zt-48aexc4mu-toSufFfbSxcdwcb_vVHupQ).
 
 ---
 

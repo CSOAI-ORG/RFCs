@@ -63,7 +63,7 @@ Charter: *(coming soon)*
 
 ## Get Involved
 
-- 💬 **Join `#wg-safe`** on [OSAIA Slack](https://slack.osaia.org) — introduce yourself and start a conversation
+- 💬 **Join `#wg-safe`** on [OSAIA Slack](https://join.slack.com/t/opensecureaialliance/shared_invite/zt-48aexc4mu-toSufFfbSxcdwcb_vVHupQ) — introduce yourself and start a conversation
 - 📋 **Read [CONTRIBUTING.md](./CONTRIBUTING.md)**
 - 🙋 **Open an issue** to propose ideas or signal interest
 - 📅 **Meetings** — watch `#wg-safe` for scheduling updates
