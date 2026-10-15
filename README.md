@@ -1,6 +1,6 @@
 # Shared AI Findings Exchange (SAFE)
 
-> **Status: Approved** — Approved by the OSAIA Steering Committee.
+> **Status: Approved** — Approved by the Steering Committee.
 
 SAFE is a working group focused on AI incident learning: confidentially collecting and analyzing AI incidents and near misses, and turning recurring failures into shared, evidence-based controls that reduce systemic risk. 
 
@@ -63,7 +63,7 @@ Charter: *(coming soon)*
 
 ## Get Involved
 
-- 💬 **Join `#wg-safe`** on [OSAIA Slack](https://join.slack.com/t/opensecureaialliance/shared_invite/zt-48aexc4mu-toSufFfbSxcdwcb_vVHupQ) — introduce yourself and start a conversation
+- 💬 **Join `#wg-safe`** on [Alliance Slack](https://join.slack.com/t/opensecureaialliance/shared_invite/zt-48aexc4mu-toSufFfbSxcdwcb_vVHupQ) — introduce yourself and start a conversation
 - 📋 **Read [CONTRIBUTING.md](./CONTRIBUTING.md)**
 - 🙋 **Open an issue** to propose ideas or signal interest
 - 📅 **Meetings** — watch `#wg-safe` for scheduling updates
