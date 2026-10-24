@@ -15,6 +15,7 @@ To join, open a PR adding yourself to the Contributors table below, or introduce
 
 | Name | Organization | GitHub | Since |
 |---|---|---|---|
+| Prem Methuku | Independent | [@Premmethuku75](https://github.com/Premmethuku75) | 2026-09-12 |
 
 ## Emeritus
 
